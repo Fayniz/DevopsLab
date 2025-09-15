@@ -1,7 +1,7 @@
 # Roadmap.sh DevOps Projects
 
 1. [Server Performance Stats](https://github.com/Fayniz/Server-Performance-Stats) ✅
-2. Log Archive Tool
+2. [Log Archive Tool](https://github.com/Fayniz/Log_archive_tool)
 3. Nginx Log Analyser
 4. GitHub Pages Deployment
 5. SSH Remote Server Setup
